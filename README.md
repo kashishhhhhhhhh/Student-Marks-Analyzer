@@ -6,17 +6,17 @@ The project combines **Tkinter**, **NumPy**, **Matplotlib**, and **SQLite** for 
 ---
 
 ## 🚀 Features
-- ➕ Add and manage student details
-- 📊 Store and update subject-wise marks
-- 📈 Generate bar and pie charts using Matplotlib
-- 🧮 Compute average, median, highest, and lowest marks with NumPy
-- 🌓 Switch between Light and Dark mode
-- 🗂 View stored data directly from the database
+- ➕ Add and manage student details  
+- 📊 Store and update subject-wise marks  
+- 📈 Generate bar and pie charts using Matplotlib  
+- 🧮 Compute average, median, highest, and lowest marks with NumPy  
+- 🌓 Switch between Light and Dark mode  
+- 🗂 View stored data directly from the database  
 
 ---
 
 ## 🧠 Technologies Used
-- **Python 3**
+- **Python 3**  
 - **Tkinter** – GUI Framework  
 - **SQLite3** – Database Management  
 - **NumPy** – Statistical Computations  
@@ -27,10 +27,10 @@ The project combines **Tkinter**, **NumPy**, **Matplotlib**, and **SQLite** for 
 ## ⚙️ How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Student_Marks_Analyzer.git
+git clone https://github.com/<your-username>/Student-Marks-Analyzer.git
 
 # Navigate into the folder
-cd Student_Marks_Analyzer
+cd Student-Marks-Analyzer
 
 # Run the project
 python student_marks_analyzer.py

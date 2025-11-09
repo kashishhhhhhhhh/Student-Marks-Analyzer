@@ -1,5 +1,37 @@
+# 🐍 Python Cache & Logs
 __pycache__/
-*.db
 *.pyc
-.DS_Store
+*.pyo
+*.pyd
 *.log
+
+# 🗂 SQLite Database
+*.db
+
+# 💻 macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 📦 Virtual Environments
+venv/
+env/
+
+# 🧪 Jupyter Notebooks & Checkpoints (if any)
+.ipynb_checkpoints/
+
+# 🪶 IDE & Editor Files
+.vscode/
+.idea/
+*.code-workspace
+
+# 🧰 Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# 📊 Temporary Data Files
+*.csv
+*.xlsx
+*.tmp
+*.bak
